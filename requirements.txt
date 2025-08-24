@@ -2,3 +2,5 @@ streamlit>=1.41.1
 pymongo
 folium>=0.19.4
 streamlit-folium>=0.24.0
+plotly>=5.0.0
+pandas>=2.0.0
